@@ -1,6 +1,6 @@
 
 var dr;
-const banner = document.getElementById("banner");
+var banner = document.getElementById("banner");
 function showInstallPromotion()
 {
   banner.style.display="block";
