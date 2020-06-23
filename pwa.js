@@ -1,7 +1,7 @@
 
 let deferredPrompt;
 const banner = document.getElementById("banner");
-showInstallPromotion()
+function showInstallPromotion()
 {
   banner.style.display="block";
 }
